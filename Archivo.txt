@@ -1,0 +1,16 @@
+     Nombre          Carrera          Edad     ¿Usa las duchas de la universidad?
+     Mateo           Sistemas          19          Si
+
+
+     Nombre          Carrera          Edad     ¿Usa las duchas de la universidad?
+     Mateo          Sis          19          Si
+
+
+     Nombre          Carrera          Edad     ¿Usa las duchas de la universidad?
+     Jesús          Bioquimica          20          No
+
+
+     Nombre          Carrera          Edad     ¿Usa las duchas de la universidad?
+     Mateo          SIS          22          si
+
+
